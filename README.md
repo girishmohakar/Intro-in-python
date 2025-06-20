@@ -13,7 +13,7 @@ Welcome to my first ever Python project! This simple yet interactive script intr
 
 🎬 Terminal Output Example:
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot_2025-06-20-23-49-28-138_ru.iiec.pydroid3.jpg)
 
 ---
 
