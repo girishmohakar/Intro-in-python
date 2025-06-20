@@ -51,9 +51,9 @@ This is a beginner-friendly Python script where the user is asked to enter a nam
 ###  Steps:
 
 1. Clone this repository:
-   ```bash
-   git clone
-   ```
+```bash
+https://github.com/girishmohakar/Intro-in-python/tree/main
+```
 
 2. Navigate to the project folder:
 
