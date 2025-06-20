@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Day%201%20Complete-success)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![Profile](https://img.shields.io/badge/Made%20by-Girish-orange)
 
 Welcome to my first ever Python project! This simple yet interactive script introduces "Girish" if the correct name is entered. It's my **Day 1** in the world of Python programming. 🐍
