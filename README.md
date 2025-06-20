@@ -77,13 +77,11 @@ https://github.com/girishmohakar/Intro-in-python/tree/main
 
 ##  Connect With Me
 
-🔗 [LinkedIn]()
+🔗 [GitHub](https://github.com/dashboard)
 
-🐙 [GitHub]()
+🔗 [linkden](https://www.linkedin.com/in/girish-mohakar-96b9ab257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-✉️ girishmohakarentc@gmail.com
-
-
+🔗 e-mail: girishmohakarentc@gmail.com
 
 ---
 
