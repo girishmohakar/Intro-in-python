@@ -21,7 +21,7 @@ if name == "girish":
 else:
     print("You are not Girish, access denied. Sorry! ")
 ```
-
+![screenshot](Screenshot_2025-06-20-23-49-28-138_ru.iiec.pydroid3.jpg)
 ---
 
 ## What It Does
