@@ -1,94 +1,91 @@
-# 🚀 My First Python Program – Girish's Introduction Script
+# 📘 Atomic Habits - HTML Summary
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Day%201%20Complete-success)
-![Profile](https://img.shields.io/badge/Made%20by-Girish-orange)
+> A 2000-word interactive HTML book summary of *Atomic Habits* by James Clear — including images, videos, habit tables, and deep concepts like 1% improvement, identity-based change, and the habit loop.
 
-Welcome to my first ever Python project! This simple yet interactive script introduces "Girish" if the correct name is entered. It's my **Day 1** in the world of Python programming. 🐍
-
----
-
-## Screenshot
-
-🎬 Terminal Output Example:
-
-![screenshot](Screenshot_2025-06-20-23-49-28-138_ru.iiec.pydroid3.jpg)
+![Build with HTML](https://img.shields.io/badge/built%20with-HTML5-orange?style=flat-square)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)
+![Project Type](https://img.shields.io/badge/type-book%20summary-blue?style=flat-square)
+![Status](https://img.shields.io/badge/status-complete-green?style=flat-square)
 
 ---
 
-## 🧭 Table of Contents
+## 📑 Table of Contents
 
-- [📌 About](#about)
-- [⚙️ How It Works](#how-it-works)
-- [🚀 Getting Started](#getting-started)
-- [📸 Screenshot](#screenshot)
-- [🎯 Goals](#goals)
-- [📬 Connect With Me](#connect-with-me)
-- [⭐ Fun Fact](#fun-fact)
-
----
-
-## About
-
-This is a beginner-friendly Python script where the user is asked to enter a name. If the name matches "Girish", it reveals some cool personal details. Otherwise, it shows an error-style message.
+1. [📘 Project Overview](#project-overview)
+2. [📷 Screenshot](#screenshot)
+3. [🚀 Features](#features)
+4. [🧠 Topics Covered](#topics-covered)
+5. [🛠️ How to Use](#how-to-use)
+6. [📁 File Structure](#file-structure)
+7. [📢 Credits](#credits)
+8. [🔗 Connect With Me](#connect-with-me)
 
 ---
 
-## How It Works
+## 📘 Project Overview
 
-- Takes user input via `input()`
-- Converts it to lowercase using `name.lower()`
-- Checks if it matches "girish"
-- If it matches, prints an introduction
-- If not, prints a rejection message
+This HTML project visually summarizes the core ideas of **Atomic Habits** using sections, internal links, image embeds, habit tracking tables, and a YouTube video. Ideal for learners, readers, or students who want to remember key ideas using a visually rich format.
 
 ---
 
-## Getting Started
-
-> Make sure you have **Python 3.x** installed.
-
-###  Steps:
-
-1. Clone this repository:
-```bash
-https://github.com/girishmohakar/Intro-in-python/tree/main
-```
-
-2. Navigate to the project folder:
-
-3. Run the Python file:
-
----
-
-## Goals
-
-✅ Learn Python basics
-
-✅ Build first Python script
-
-🔜 Explore if, else, functions, loops
-
-🔜 Start making fun projects
-
+## 📷 Screenshot
 
 
 ---
 
-##  Connect With Me
+## 🚀 Features
 
-🔗 [GitHub](https://github.com/dashboard)
+- 📖 Structured like a full chapter-wise book summary  
+- 🖼️ Embedded high-quality habit images  
+- 📊 Tables for easy visual tracking  
+- 🎥 Embedded summary video  
+- 🔗 Table of contents with anchor links  
+- 📱 Mobile-friendly layout (basic)
 
-🔗 [linkden](https://www.linkedin.com/in/girish-mohakar-96b9ab257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
 
-🔗 e-mail: girishmohakarentc@gmail.com
+## 🧠 Topics Covered
+
+- Aggregation of Marginal Gains  
+- The 4 Laws of Behavior Change  
+- Systems vs. Goals  
+- Identity-Based Habits  
+- Environment Design  
+- Habit Tracking Techniques  
+- Habit Loop (Cue → Craving → Response → Reward)  
+- Real-world habit examples
 
 ---
 
-## Fun Fact
+## 🛠️ How to Use
 
-> “Every expert was once a beginner. Keep coding!” 💻
-
-
+1. Clone or download this repository.  
+2. Open the `index.html` file in any browser.  
+3. Use the table of contents to explore the summary.  
+4. Edit images/text freely to personalize learning!
 
 ---
+
+## 📁 File Structure
+📂 AtomicHabits-HTML ├── index.html        # Main HTML summary file ├── README.md         # This readme file ├── Screenshot_2025-06-22-09-49-43-079_com.qamar.ide.web.jpg └── 📁 images/         # (Optional) Store custom images here
+
+---
+
+## 📢 Credits
+
+- Summary based on *Atomic Habits* by [James Clear](https://jamesclear.com)  
+- Charts & diagrams: sourced for educational purposes  
+- YouTube summary: linked from licensed public videos
+
+---
+
+## 🔗 Connect With Me
+
+- 🌐 [GitHub](https://github.com/dashboard)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/girish-mohakar-96b9ab257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📧 Email: girishmohakarentc@gmail.com  
+
+---
+
+> ✨ Star this project if you like it, and feel free to fork and customize!
+
